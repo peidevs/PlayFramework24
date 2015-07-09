@@ -3,7 +3,7 @@
 ### Installation
 
 ```sh
-$ brew install typesafe-ac
+$ brew install typesafe-activator
 $ git clone [this repo] PlayFramework24
 $ cd PlayFramework24
 $ activator run 
